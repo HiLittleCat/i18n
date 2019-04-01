@@ -1,7 +1,7 @@
 package i18n
 
 import (
-	"github.com/volatile/core"
+	"github.com/HiLittleCat/core"
 	"golang.org/x/text/language"
 )
 

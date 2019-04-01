@@ -3,7 +3,7 @@ package i18n
 import (
 	"golang.org/x/text/language"
 
-	"github.com/volatile/core"
+	"github.com/HiLittleCat/core"
 )
 
 // ClientLocale returns the current locale used for the client.

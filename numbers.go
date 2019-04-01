@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"strconv"
 
-	"github.com/volatile/core"
+	"github.com/HiLittleCat/core"
 )
 
 // Fmtn returns a formatted number with decimal and thousands marks, according to the locale's "decimalMark" and "thousandsMark" keys respectively.

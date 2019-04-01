@@ -5,7 +5,7 @@ import (
 	"html/template"
 	"strings"
 
-	"github.com/volatile/core"
+	"github.com/HiLittleCat/core"
 )
 
 // T returns the translation associated to key, for the client locale.
